@@ -3,7 +3,7 @@
 - 💼 A procura de um emprego
 - 👨‍🎓 Graduando em Ciências da Computação pela UFC!
 - 🐍 Python Developer... shii
-- 🤔 Atualmente aprendendo C# e Banco de Dados!
+- 🤔 Atualmente aprendendo C# e Banco de Dados (SQL)!
 
 <div align="center">
   <a href="https://github.com/icarufc">
