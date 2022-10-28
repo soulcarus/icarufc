@@ -19,7 +19,7 @@
  <img align="center" alt="ICARO-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  <img align="center" alt="ICARO-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align="center" alt="ICARO-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img align="center" alt="ICARO-DISCORD" height="100" width"100" src"https://discord.com/channels/1028382781492961280/1028382782268919829/1035372942873333840"
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src"https://discord.com/channels/1028382781492961280/1028382782268919829/1035372942873333840"
 
 </div>
 
