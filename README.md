@@ -19,7 +19,7 @@
  <img align="center" alt="ICARO-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  <img align="center" alt="ICARO-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align="center" alt="ICARO-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img align="right" alt="Rafa-pic" width="150" height="140" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/821397017112477700/1035305350074744832/styledisplay_inline_blockbr.gif">
+
 </div>
 
 ##
