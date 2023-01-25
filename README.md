@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/icarufc">
-  <img height="150em" src="https://icarufc-icarufc.vercel.app/api?username=icarufc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://icarufc-icarufc.vercel.app/api/top-langs/?username=icarufc&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://icarufc.vercel.app/api?username=icarufc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://icarufc.vercel.app/api/top-langs/?username=icarufc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
