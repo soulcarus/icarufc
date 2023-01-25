@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/icarufc">
-  <img height="150em" length="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarufc&layout=compact&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarufc&layout=compact&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
