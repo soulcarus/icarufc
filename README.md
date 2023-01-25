@@ -2,7 +2,7 @@
 
 - 💼 A procura de um emprego
 - 👨‍🎓 Graduando em Ciências da Computação pela UFC!
-- 🎓 Realizando cursos online via Harvard, Freecodecamp, cursoemvideo e Udemy!
+- 🎓 Realizando cursos online via Harvard, Freecodecamp, cursoemvideo, Fundação Bradesco e Udemy!
 - 🐍 Python Developer... shii (também brinco em R)
 - 🤔 Atualmente desenvolvendo habilidades em Ciência de Dados e Machine Learning!
 
