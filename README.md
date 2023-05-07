@@ -1,10 +1,9 @@
 ### Fala meu consagrado! Prazer, me chamo Ícaro 👋
 
-- 💼 A procura de um emprego
+- 💼 Desenvolvedor Mobile Full Stack
 - 👨‍🎓 Graduando em Ciências da Computação pela UFC!
-- 🎓 Realizando cursos online via Harvard, Freecodecamp, cursoemvideo, Fundação Bradesco e Udemy!
-- 🐍 Python Developer... shii (também brinco em R)
-- 🤔 Atualmente desenvolvendo habilidades em Ciência de Dados e Machine Learning!
+- 🐍 Python Developer... shii (também brinco em JavaScript)
+- 🤔 Atualmente ocupando o cargo de P.O e Desenvolvedor FullStack
 
 <div align="center">
   <a href="https://github.com/icarufc">
