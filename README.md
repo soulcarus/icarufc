@@ -2,7 +2,7 @@
 
 - 💼 Desenvolvedor Mobile Full Stack
 - 👨‍🎓 Graduando em Ciências da Computação pela UFC!
-- 🐍 Python Developer... shii (também brinco em JavaScript)
+- 🐍 Python Developer... shii (também brinco com outras linguagens)
 - 🤔 Atualmente ocupando o cargo de P.O e Desenvolvedor FullStack
 
 <div align="center">
